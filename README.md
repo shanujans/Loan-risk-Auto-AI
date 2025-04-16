@@ -12,7 +12,7 @@ This project uses IBM Watson Studio's AutoAI to build a machine learning pipelin
 
 - **Best Model**: Snap Boosting Machine Classifier
 - **Evaluation Metric**: Accuracy
-- **Test Score**: [Insert actual accuracy score from notebook here]
+- **Test Score**:  0.872 (87.2% accuracy)
 - **Positive Label**: "No Risk"
 - **Random State**: 33 (for reproducibility)
 
